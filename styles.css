@@ -1,0 +1,22 @@
+.header {
+    display: inline-block;
+    width: 10%;
+    color: #8800ff;
+    text-align: right;
+    margin: 1rem;
+}
+
+.para {
+    display: inline-block;
+    padding: 1rem;
+    background-color: #eeeeee;
+}
+
+body {
+    background-color: #00ffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bigHeader {
+    color: #ff01ff;
+}
